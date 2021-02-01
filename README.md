@@ -61,8 +61,6 @@ In this activity you will use `prompt()` to capture user input and `alert()` to 
 
 * More info about `prompt()` [here](https://www.w3schools.com/jsref/met_win_prompt.asp)
 
-## Activity 1
-
 Each of the following steps should be completed by a new group member, unless otherwise stated
 
 ### Step 1
